@@ -1,0 +1,4 @@
+2025-04-01 23:19:00,955 - INFO - Successfully connected to Supabase
+2025-04-01 23:19:02,036 - INFO - HTTP Request: GET https://onpxncsesssxbpboirlj.supabase.co/rest/v1/schools?select=%2A "HTTP/2 200 OK"
+2025-04-01 23:19:02,188 - INFO - Database connection test successful
+2025-04-01 23:19:02,188 - INFO - Found 1000 schools in database

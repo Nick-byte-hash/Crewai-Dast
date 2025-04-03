@@ -1,0 +1,5 @@
+2025-04-01 15:37:58,179 - INFO - HTTP Request: GET https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json "HTTP/1.1 200 OK"
+2025-04-01 15:38:02,903 - INFO - Starting the crew
+2025-04-01 15:38:03,381 - ERROR - Error during scraping: 1 validation error for Agent
+  Value error, Required function parameter 'input_data' not found in args_schema [type=value_error, input_value={'tools': [SupabaseTool(n... and concise manner.\n"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error

@@ -1,0 +1,16 @@
+pyproject.toml
+enscrap/src/enscrap.egg-info/PKG-INFO
+enscrap/src/enscrap.egg-info/SOURCES.txt
+enscrap/src/enscrap.egg-info/dependency_links.txt
+enscrap/src/enscrap.egg-info/entry_points.txt
+enscrap/src/enscrap.egg-info/requires.txt
+enscrap/src/enscrap.egg-info/top_level.txt
+enscrap/src/enscrap/__init__.py
+enscrap/src/enscrap/crew.py
+enscrap/src/enscrap/main.py
+enscrap/src/enscrap.egg-info/PKG-INFO
+enscrap/src/enscrap.egg-info/SOURCES.txt
+enscrap/src/enscrap.egg-info/dependency_links.txt
+enscrap/src/enscrap.egg-info/entry_points.txt
+enscrap/src/enscrap.egg-info/requires.txt
+enscrap/src/enscrap.egg-info/top_level.txt

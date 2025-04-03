@@ -1,0 +1,5 @@
+[console_scripts]
+replay_crew = enscrap.main:replay
+run_crew = enscrap.main:run
+test_crew = enscrap.main:test
+train_crew = enscrap.main:train

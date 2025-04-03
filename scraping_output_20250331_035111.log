@@ -1,0 +1,6 @@
+2025-03-31 03:51:15,154 - INFO - HTTP Request: GET https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json "HTTP/1.1 200 OK"
+2025-03-31 03:51:17,770 - INFO - Starting the crew
+2025-03-31 03:51:18,053 - ERROR - Error during scraping: 1 validation error for WebScrapingTool
+args_schema
+  Input should be a valid dictionary or instance of BaseModel [type=model_type, input_value=<class 'enscrap.tools.web..._tool.WebScrapingInput'>, input_type=ModelMetaclass]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type

@@ -1,0 +1,6 @@
+2025-04-01 19:19:33,854 - INFO - Successfully connected to Supabase
+2025-04-01 19:19:34,408 - INFO - HTTP Request: GET https://onpxncsesssxbpboirlj.supabase.co/rest/v1/schools?select=%2A "HTTP/2 200 OK"
+2025-04-01 19:19:34,476 - INFO - Database connection test successful
+2025-04-01 19:19:34,476 - INFO - Found 1000 schools in database
+2025-04-01 19:19:34,667 - INFO - HTTP Request: GET https://onpxncsesssxbpboirlj.supabase.co/rest/v1/schools?select=%2A "HTTP/2 200 OK"
+2025-04-01 19:19:34,737 - INFO - Sample school data: {'school_id': '9c9c989b-9455-44fc-b7f6-718ac9a22379', 'school_name': 'NORTHSIDE BAPTIST ACADEMY', 'address': '1800 U.S. 190 Business', 'city': 'Nolanville', 'zip': 76559, 'county': None, 'phone': None, 'latitude': 31.083976, 'longitude': -97.634028, 'lea_id': None, 'urban_area_classification': 'Urban', 'school_type': 'REGULAR ELEMENTARY OR SECONDARY', 'religious_orientation': None, 'school_network': None, 'catholic_diocese': None, 'days_in_school_year': 180.0, 'total_student_enrollment': 115, 'dast_pipeline_stage': 'Solution Identified', 'source': 'Twenty', 'edlink_id': None, 'twenty_id': 'dad12b26-2f04-4698-97ea-a24fcd596de9', 'nces_id': None, 'state_id': '57925b45-7ac0-4268-836f-1b85c6d9ca59', 'school_association': [], 'target_school': True, 'lcms_district': None}

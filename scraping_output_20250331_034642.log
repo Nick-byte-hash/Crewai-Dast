@@ -1,0 +1,3 @@
+2025-03-31 03:46:46,120 - INFO - HTTP Request: GET https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json "HTTP/1.1 200 OK"
+2025-03-31 03:46:48,798 - INFO - Starting the crew
+2025-03-31 03:46:48,803 - ERROR - Error during scraping: Can't instantiate abstract class SupabaseTool without an implementation for abstract method '_run'

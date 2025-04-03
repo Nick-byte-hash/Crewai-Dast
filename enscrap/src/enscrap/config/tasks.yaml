@@ -1,0 +1,21 @@
+research_task:
+  description: >
+    Use supabase_tool to identify up to 5 schools needing enrichment. Return only school_id, school_name, and missing_fields.
+  expected_output: >
+    A JSON list of up to 5 schools (e.g., [{'school_id': 'uuid', 'school_name': 'School Name', 'missing_fields': ['phone', 'zip']}, ...])
+  agent: researcher
+
+scraping_task:
+  description: >
+    Scrape data for schools from the research task using:
+    {school_sources}
+  expected_output: >
+    A JSON list of updated school data (e.g., [{'school_id': 'uuid', 'enriched_fields': ['phone'], 'status': 'success'}, ...])
+  agent: scraping_agent
+
+reporting_task:
+  description: >
+    Analyze enriched data for up to 5 schools from the scraping task.
+  expected_output: >
+    A JSON report (e.g., {'total_schools': 5, 'complete_schools': 4, 'missing_fields_summary': {'phone': 1}})
+  agent: reporting_analyst

@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: enscrap
+Version: 0.1.0
+Summary: A multi-agent AI system for school data enrichment.
+Requires-Python: >=3.10
+Requires-Dist: supabase>=2.0.0
+Requires-Dist: requests>=2.31.0
+Requires-Dist: beautifulsoup4>=4.12.2
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: psycopg2-binary>=2.9.3
+Requires-Dist: crewai>=0.10.8
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: PyYAML>=6.0.1
